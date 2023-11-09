@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825650602550",
+    "project_id": "testmobo-4910e",
+    "storage_bucket": "testmobo-4910e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825650602550:android:fb99b012bee527921aee97",
+        "android_client_info": {
+          "package_name": "com.example.mobotestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRa3py7RGQyTk61UrexQbUU-hd_bWSSy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
