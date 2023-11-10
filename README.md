@@ -42,4 +42,4 @@ This Android application is designed to conduct comprehensive device health chec
 - Graceful error handling with helpful instructions to the user.
 
 ## Submission
- **Code Repository:** [GitHub Link]([your_github_link](https://github.com/JAYS-bit/DeviceHealthCheckerApp)
+ **Code Repository:** [GitHub Link]([https://github.com/JAYS-bit/DeviceHealthCheckerApp)])
