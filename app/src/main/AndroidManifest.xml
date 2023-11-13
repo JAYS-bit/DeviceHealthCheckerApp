@@ -28,7 +28,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="GET YOUR GOOGLE MAP SDK & PASTE HERE" />
+            android:value="GET YOUR GOOGLE MAP SDK AND PASTE HERE" />
 
         <activity
             android:name=".sensorTesting.GPSActivity"
